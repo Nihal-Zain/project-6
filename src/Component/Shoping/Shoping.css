@@ -1,0 +1,25 @@
+.shoping .container-fluid{
+    background-color: papayawhip;
+}
+.shoptxt h4{
+  font-optical-sizing: auto;
+  font-weight: 500;
+ font-style: normal;
+  font-size: 35px;
+  color: #aa0082;
+  padding-top: 20px;
+}
+.shoptxt h6{
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+ font-style: normal;
+ padding-bottom: 10px;
+}
+.logoImg{
+    width: 70px;
+     height: 70px;
+}
+.shoptxt img{
+    width: 120px;
+    height: 40px;
+}

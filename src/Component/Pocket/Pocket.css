@@ -1,0 +1,35 @@
+.cardPocket{
+    background-color: #ffe9c9;
+}
+
+.title h5{
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    color: #aa0082;
+}
+.title i{
+    color: #aa0082;
+}
+.card-body .card-title{
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    color: #aa0082;
+}
+.card-text{
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 18px;
+}
+.card-body button{
+    color: #aa0082;
+    border: solid 2px #aa0082;
+}
+.card-body button:hover{
+    background-color: #aa0082;
+    color: white;
+}

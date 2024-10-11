@@ -1,0 +1,22 @@
+.protxt h2{
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    color: #aa0082;
+}
+.protxt p{
+    color: #37393a;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.protxt button{
+    background-color: #aa0082;
+    color: white;
+    font-size: 20px;
+}
+.protxt button:hover{
+    border: solid 2px #aa0082;
+    background-color: white;
+    color: #aa0082;
+}

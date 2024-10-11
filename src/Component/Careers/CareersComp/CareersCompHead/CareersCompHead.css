@@ -1,0 +1,36 @@
+
+.header{
+    background-image: url(https://cdn.breadfast.com/wp-content/uploads/2021/12/img_careers_web.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+}
+.overdelay{
+    width: 100%;
+    display: flex;
+     align-items: center;
+    text-align: center;
+}
+.caption h1{
+    font-size: 47px;
+    margin: 20px;
+}
+.caption p{
+    padding: 20px;
+    font-size: 23px;
+}
+.caption{
+    background-color: white;
+}
+.caption button{
+    background-color: #aa0082;
+    color: white;
+    font-size: 20px;
+}
+.caption button:hover{
+    border: solid 2px #aa0082;
+    background-color: white;
+    color: #aa0082;
+}

@@ -1,0 +1,8 @@
+.covidHeader{
+    background-image: url(https://cdn.breadfast.com/wp-content/uploads/2022/01/img_covid_web.png);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    justify-content: center; 
+}

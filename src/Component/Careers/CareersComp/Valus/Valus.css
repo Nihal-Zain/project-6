@@ -1,0 +1,19 @@
+.valueTit{
+    background-color: #aa0082;
+}
+.valueTit p{
+    /* color: white; */
+    text-align: center;
+    font-size: 60px;
+    justify-content: center;
+    color: beige;
+    padding-top: 20px;
+}
+.value-tit h5{
+    text-align: center;
+    font-size: 50px;
+
+}
+.value{
+    background-color: papayawhip;
+}
